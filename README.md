@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+I am Candy. I am doing the Github tutorial.
